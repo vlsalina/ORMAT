@@ -30,14 +30,14 @@ Decrease detected: -0.034778999999999893 - Date/Time: 1/1/18 14:00 to 1/1/18 14:
 Increase detected: 0.029913999999999774 - Date/Time: 1/1/18 14:30 to 1/1/18 15:00
 Increase detected: 0.029914000000000218 - Date/Time: 1/1/18 15:00 to 1/1/18 15:30
 Increase detected: 0.143211999999999673 - Date/Time: 1/1/18 15:30 to 1/1/18 16:00
-Increase detected: 0.197975000000000012 - Date/Time: 1/1/18 16:00 to 1/1/18 16:30
-Increase detected: 0.197975000000000012 - Date/Time: 1/1/18 16:30 to 1/1/18 17:00
+[Alert] Abnormal reading: 0.197975000000000012 - Date/Time: 1/1/18 16:00 to 1/1/18 16:30
+[Alert] Abnormal reading: 0.197975000000000012 - Date/Time: 1/1/18 16:30 to 1/1/18 17:00
 Increase detected: 0.159800000000000164 - Date/Time: 1/1/18 17:00 to 1/1/18 17:30
 Increase detected: 0.157748999999999917 - Date/Time: 1/1/18 17:30 to 1/1/18 18:00
-Increase detected: 0.202857000000000287 - Date/Time: 1/1/18 18:00 to 1/1/18 18:30
-Increase detected: 0.359201000000000104 - Date/Time: 1/1/18 18:30 to 1/1/18 19:00
-Increase detected: 0.359200999999999215 - Date/Time: 1/1/18 19:00 to 1/1/18 19:30
-Increase detected: 0.233657000000000004 - Date/Time: 1/1/18 19:30 to 1/1/18 20:00
+[Alert] Abnormal reading: 0.202857000000000287 - Date/Time: 1/1/18 18:00 to 1/1/18 18:30
+[Alert] Abnormal reading: 0.359201000000000104 - Date/Time: 1/1/18 18:30 to 1/1/18 19:00
+[Alert] Abnormal reading: 0.359200999999999215 - Date/Time: 1/1/18 19:00 to 1/1/18 19:30
+[Alert] Abnormal reading: 0.233657000000000004 - Date/Time: 1/1/18 19:30 to 1/1/18 20:00
 Increase detected: 0.107639999999999958 - Date/Time: 1/1/18 20:00 to 1/1/18 20:30
 Increase detected: 0.107640000000000846 - Date/Time: 1/1/18 20:30 to 1/1/18 21:00
 Increase detected: 0.130069999999999020 - Date/Time: 1/1/18 21:00 to 1/1/18 21:30
@@ -68,8 +68,8 @@ Decrease detected: -0.180610999999999855 - Date/Time: 1/2/18 9:00 to 1/2/18 9:30
 Decrease detected: -0.020865999999998941 - Date/Time: 1/2/18 9:30 to 1/2/18 10:00
 Decrease detected: -0.020866000000000717 - Date/Time: 1/2/18 10:00 to 1/2/18 10:30
 Increase detected: 0.138984000000000663 - Date/Time: 1/2/18 10:30 to 1/2/18 11:00
-Increase detected: 0.284612999999999339 - Date/Time: 1/2/18 11:00 to 1/2/18 11:30
-Increase detected: 0.284612999999999339 - Date/Time: 1/2/18 11:30 to 1/2/18 12:00
+[Alert] Abnormal reading: 0.284612999999999339 - Date/Time: 1/2/18 11:00 to 1/2/18 11:30
+[Alert] Abnormal reading: 0.284612999999999339 - Date/Time: 1/2/18 11:30 to 1/2/18 12:00
 Decrease detected: -0.119470999999999883 - Date/Time: 1/2/18 12:00 to 1/2/18 12:30
 Decrease detected: -0.221483999999999348 - Date/Time: 1/2/18 12:30 to 1/2/18 13:00
 Decrease detected: -0.225423000000000151 - Date/Time: 1/2/18 13:00 to 1/2/18 13:30
@@ -117,22 +117,22 @@ Increase detected: 0.099848999999999855 - Date/Time: 1/3/18 9:30 to 1/3/18 10:00
 Decrease detected: -0.180786000000000335 - Date/Time: 1/3/18 10:00 to 1/3/18 10:30
 Decrease detected: -0.180785999999999447 - Date/Time: 1/3/18 10:30 to 1/3/18 11:00
 Increase detected: 0.035744000000000220 - Date/Time: 1/3/18 11:00 to 1/3/18 11:30
-Increase detected: 0.278047999999999185 - Date/Time: 1/3/18 11:30 to 1/3/18 12:00
-Increase detected: 0.278049000000001101 - Date/Time: 1/3/18 12:00 to 1/3/18 12:30
-Increase detected: 0.218104999999999549 - Date/Time: 1/3/18 12:30 to 1/3/18 13:00
-Increase detected: 0.197780999999999096 - Date/Time: 1/3/18 13:00 to 1/3/18 13:30
-Increase detected: 0.187714000000000603 - Date/Time: 1/3/18 13:30 to 1/3/18 14:00
+[Alert] Abnormal reading: 0.278047999999999185 - Date/Time: 1/3/18 11:30 to 1/3/18 12:00
+[Alert] Abnormal reading: 0.278049000000001101 - Date/Time: 1/3/18 12:00 to 1/3/18 12:30
+[Alert] Abnormal reading: 0.218104999999999549 - Date/Time: 1/3/18 12:30 to 1/3/18 13:00
+[Alert] Abnormal reading: 0.197780999999999096 - Date/Time: 1/3/18 13:00 to 1/3/18 13:30
+[Alert] Abnormal reading: 0.187714000000000603 - Date/Time: 1/3/18 13:30 to 1/3/18 14:00
 Decrease detected: -0.266777000000000264 - Date/Time: 1/3/18 14:00 to 1/3/18 14:30
 Decrease detected: -0.266777999999999516 - Date/Time: 1/3/18 14:30 to 1/3/18 15:00
 Decrease detected: -0.311110000000000220 - Date/Time: 1/3/18 15:00 to 1/3/18 15:30
 Decrease detected: -0.416273999999999589 - Date/Time: 1/3/18 15:30 to 1/3/18 16:00
 Decrease detected: -0.416273000000000337 - Date/Time: 1/3/18 16:00 to 1/3/18 16:30
 Decrease detected: -0.054388999999999577 - Date/Time: 1/3/18 16:30 to 1/3/18 17:00
-Increase detected: 0.216721999999999859 - Date/Time: 1/3/18 17:00 to 1/3/18 17:30
-Increase detected: 0.216720999999999719 - Date/Time: 1/3/18 17:30 to 1/3/18 18:00
-Increase detected: 0.231783000000000072 - Date/Time: 1/3/18 18:00 to 1/3/18 18:30
-Increase detected: 0.234506999999999799 - Date/Time: 1/3/18 18:30 to 1/3/18 19:00
-Increase detected: 0.205243000000000286 - Date/Time: 1/3/18 19:00 to 1/3/18 19:30
+[Alert] Abnormal reading: 0.216721999999999859 - Date/Time: 1/3/18 17:00 to 1/3/18 17:30
+[Alert] Abnormal reading: 0.216720999999999719 - Date/Time: 1/3/18 17:30 to 1/3/18 18:00
+[Alert] Abnormal reading: 0.231783000000000072 - Date/Time: 1/3/18 18:00 to 1/3/18 18:30
+[Alert] Abnormal reading: 0.234506999999999799 - Date/Time: 1/3/18 18:30 to 1/3/18 19:00
+[Alert] Abnormal reading: 0.205243000000000286 - Date/Time: 1/3/18 19:00 to 1/3/18 19:30
 Decrease detected: -0.005879000000000190 - Date/Time: 1/3/18 19:30 to 1/3/18 20:00
 Decrease detected: -0.005879000000000190 - Date/Time: 1/3/18 20:00 to 1/3/18 20:30
 Decrease detected: -0.003376999999999519 - Date/Time: 1/3/18 20:30 to 1/3/18 21:00
@@ -163,9 +163,9 @@ Decrease detected: -0.116976000000000191 - Date/Time: 1/4/18 8:30 to 1/4/18 9:00
 Decrease detected: -0.002454999999999430 - Date/Time: 1/4/18 9:00 to 1/4/18 9:30
 Increase detected: 0.014537999999999940 - Date/Time: 1/4/18 9:30 to 1/4/18 10:00
 Increase detected: 0.043711000000000055 - Date/Time: 1/4/18 10:00 to 1/4/18 10:30
-Increase detected: 0.214433999999999791 - Date/Time: 1/4/18 10:30 to 1/4/18 11:00
-Increase detected: 0.214433999999999791 - Date/Time: 1/4/18 11:00 to 1/4/18 11:30
-Increase detected: 0.179251999999999967 - Date/Time: 1/4/18 11:30 to 1/4/18 12:00
+[Alert] Abnormal reading: 0.214433999999999791 - Date/Time: 1/4/18 10:30 to 1/4/18 11:00
+[Alert] Abnormal reading: 0.214433999999999791 - Date/Time: 1/4/18 11:00 to 1/4/18 11:30
+[Alert] Abnormal reading: 0.179251999999999967 - Date/Time: 1/4/18 11:30 to 1/4/18 12:00
 Increase detected: 0.130832000000000725 - Date/Time: 1/4/18 12:00 to 1/4/18 12:30
 Increase detected: 0.130831999999999837 - Date/Time: 1/4/18 12:30 to 1/4/18 13:00
 Decrease detected: -0.207550000000000345 - Date/Time: 1/4/18 13:00 to 1/4/18 13:30
@@ -204,13 +204,13 @@ Decrease detected: -0.019486999999999810 - Date/Time: 1/5/18 5:00 to 1/5/18 5:30
 Decrease detected: -0.063940000000000552 - Date/Time: 1/5/18 5:30 to 1/5/18 6:00
 Decrease detected: -0.064173000000000258 - Date/Time: 1/5/18 6:00 to 1/5/18 6:30
 Increase detected: 0.006912000000000695 - Date/Time: 1/5/18 6:30 to 1/5/18 7:00
-Increase detected: 0.199423999999999602 - Date/Time: 1/5/18 7:00 to 1/5/18 7:30
-Increase detected: 0.199424000000000490 - Date/Time: 1/5/18 7:30 to 1/5/18 8:00
-Increase detected: 0.182608999999999355 - Date/Time: 1/5/18 8:00 to 1/5/18 8:30
+[Alert] Abnormal reading: 0.199423999999999602 - Date/Time: 1/5/18 7:00 to 1/5/18 7:30
+[Alert] Abnormal reading: 0.199424000000000490 - Date/Time: 1/5/18 7:30 to 1/5/18 8:00
+[Alert] Abnormal reading: 0.182608999999999355 - Date/Time: 1/5/18 8:00 to 1/5/18 8:30
 Increase detected: 0.168543000000000553 - Date/Time: 1/5/18 8:30 to 1/5/18 9:00
 Increase detected: 0.168543999999999805 - Date/Time: 1/5/18 9:00 to 1/5/18 9:30
-Increase detected: 0.193897999999999904 - Date/Time: 1/5/18 9:30 to 1/5/18 10:00
-Increase detected: 0.199486000000000274 - Date/Time: 1/5/18 10:00 to 1/5/18 10:30
+[Alert] Abnormal reading: 0.193897999999999904 - Date/Time: 1/5/18 9:30 to 1/5/18 10:00
+[Alert] Abnormal reading: 0.199486000000000274 - Date/Time: 1/5/18 10:00 to 1/5/18 10:30
 Increase detected: 0.126503999999999728 - Date/Time: 1/5/18 10:30 to 1/5/18 11:00
 Decrease detected: -0.574396000000000129 - Date/Time: 1/5/18 11:00 to 1/5/18 11:30
 Decrease detected: -0.574394999999999989 - Date/Time: 1/5/18 11:30 to 1/5/18 12:00
@@ -218,8 +218,8 @@ Decrease detected: -0.894561999999999635 - Date/Time: 1/5/18 12:00 to 1/5/18 12:
 Decrease detected: -1.441622999999999877 - Date/Time: 1/5/18 12:30 to 1/5/18 13:00
 Decrease detected: -1.441623000000000321 - Date/Time: 1/5/18 13:00 to 1/5/18 13:30
 Decrease detected: -0.289880999999999833 - Date/Time: 1/5/18 13:30 to 1/5/18 14:00
-Increase detected: 0.346627999999999936 - Date/Time: 1/5/18 14:00 to 1/5/18 14:30
-Increase detected: 0.346627999999999714 - Date/Time: 1/5/18 14:30 to 1/5/18 15:00
+[Alert] Abnormal reading: 0.346627999999999936 - Date/Time: 1/5/18 14:00 to 1/5/18 14:30
+[Alert] Abnormal reading: 0.346627999999999714 - Date/Time: 1/5/18 14:30 to 1/5/18 15:00
 Increase detected: 0.006797000000000164 - Date/Time: 1/5/18 15:00 to 1/5/18 15:30
 Decrease detected: -0.023066999999999727 - Date/Time: 1/5/18 15:30 to 1/5/18 16:00
 Decrease detected: -0.013231000000000215 - Date/Time: 1/5/18 16:00 to 1/5/18 16:30
@@ -507,8 +507,8 @@ Decrease detected: -0.009387999999999952 - Date/Time: 1/11/18 12:30 to 1/11/18 1
 Decrease detected: -0.030075999999999992 - Date/Time: 1/11/18 13:00 to 1/11/18 13:30
 Decrease detected: -0.030075999999999992 - Date/Time: 1/11/18 13:30 to 1/11/18 14:00
 Increase detected: 0.160417000000000032 - Date/Time: 1/11/18 14:00 to 1/11/18 14:30
-Increase detected: 0.212072999999999956 - Date/Time: 1/11/18 14:30 to 1/11/18 15:00
-Increase detected: 0.195849999999999858 - Date/Time: 1/11/18 15:00 to 1/11/18 15:30
+[Alert] Abnormal reading: 0.212072999999999956 - Date/Time: 1/11/18 14:30 to 1/11/18 15:00
+[Alert] Abnormal reading: 0.195849999999999858 - Date/Time: 1/11/18 15:00 to 1/11/18 15:30
 Decrease detected: -0.051476999999999995 - Date/Time: 1/11/18 15:30 to 1/11/18 16:00
 Decrease detected: -0.051476999999999995 - Date/Time: 1/11/18 16:00 to 1/11/18 16:30
 Decrease detected: -0.090784999999999894 - Date/Time: 1/11/18 16:30 to 1/11/18 17:00
@@ -517,9 +517,9 @@ Decrease detected: -0.168318000000000190 - Date/Time: 1/11/18 17:30 to 1/11/18 1
 Decrease detected: -0.281929999999999903 - Date/Time: 1/11/18 18:00 to 1/11/18 18:30
 Decrease detected: -0.354168999999999956 - Date/Time: 1/11/18 18:30 to 1/11/18 19:00
 Decrease detected: -0.354169000000000067 - Date/Time: 1/11/18 19:00 to 1/11/18 19:30
-Increase detected: 0.246086999999999972 - Date/Time: 1/11/18 19:30 to 1/11/18 20:00
-Increase detected: 0.323178999999999939 - Date/Time: 1/11/18 20:00 to 1/11/18 20:30
-Increase detected: 0.276320000000000121 - Date/Time: 1/11/18 20:30 to 1/11/18 21:00
+[Alert] Abnormal reading: 0.246086999999999972 - Date/Time: 1/11/18 19:30 to 1/11/18 20:00
+[Alert] Abnormal reading: 0.323178999999999939 - Date/Time: 1/11/18 20:00 to 1/11/18 20:30
+[Alert] Abnormal reading: 0.276320000000000121 - Date/Time: 1/11/18 20:30 to 1/11/18 21:00
 Increase detected: 0.032250000000000001 - Date/Time: 1/11/18 21:00 to 1/11/18 21:30
 Increase detected: 0.032251000000000030 - Date/Time: 1/11/18 21:30 to 1/11/18 22:00
 Increase detected: 0.014413999999999927 - Date/Time: 1/11/18 22:00 to 1/11/18 22:30
@@ -640,11 +640,11 @@ Increase detected: 0.077698000000000045 - Date/Time: 1/14/18 7:00 to 1/14/18 7:3
 Decrease detected: -0.003669999999999840 - Date/Time: 1/14/18 7:30 to 1/14/18 8:00
 Decrease detected: -0.005074999999999941 - Date/Time: 1/14/18 8:00 to 1/14/18 8:30
 Increase detected: 0.116012999999999922 - Date/Time: 1/14/18 8:30 to 1/14/18 9:00
-Increase detected: 0.464412000000000047 - Date/Time: 1/14/18 9:00 to 1/14/18 9:30
-Increase detected: 0.464412999999999965 - Date/Time: 1/14/18 9:30 to 1/14/18 10:00
-Increase detected: 0.395458000000000087 - Date/Time: 1/14/18 10:00 to 1/14/18 10:30
-Increase detected: 0.334992000000000179 - Date/Time: 1/14/18 10:30 to 1/14/18 11:00
-Increase detected: 0.334992999999999874 - Date/Time: 1/14/18 11:00 to 1/14/18 11:30
+[Alert] Abnormal reading: 0.464412000000000047 - Date/Time: 1/14/18 9:00 to 1/14/18 9:30
+[Alert] Abnormal reading: 0.464412999999999965 - Date/Time: 1/14/18 9:30 to 1/14/18 10:00
+[Alert] Abnormal reading: 0.395458000000000087 - Date/Time: 1/14/18 10:00 to 1/14/18 10:30
+[Alert] Abnormal reading: 0.334992000000000179 - Date/Time: 1/14/18 10:30 to 1/14/18 11:00
+[Alert] Abnormal reading: 0.334992999999999874 - Date/Time: 1/14/18 11:00 to 1/14/18 11:30
 Increase detected: 0.049440999999999846 - Date/Time: 1/14/18 11:30 to 1/14/18 12:00
 Decrease detected: -0.018556000000000239 - Date/Time: 1/14/18 12:00 to 1/14/18 12:30
 Decrease detected: -0.029815999999999843 - Date/Time: 1/14/18 12:30 to 1/14/18 13:00
@@ -657,10 +657,10 @@ Decrease detected: -0.550181000000000031 - Date/Time: 1/14/18 15:30 to 1/14/18 1
 Decrease detected: -0.538467999999999947 - Date/Time: 1/14/18 16:00 to 1/14/18 16:30
 Decrease detected: -0.538468999999999975 - Date/Time: 1/14/18 16:30 to 1/14/18 17:00
 Increase detected: 0.135502000000000011 - Date/Time: 1/14/18 17:00 to 1/14/18 17:30
-Increase detected: 0.204003999999999991 - Date/Time: 1/14/18 17:30 to 1/14/18 18:00
-Increase detected: 0.208083999999999963 - Date/Time: 1/14/18 18:00 to 1/14/18 18:30
-Increase detected: 0.226348000000000049 - Date/Time: 1/14/18 18:30 to 1/14/18 19:00
-Increase detected: 0.226346999999999965 - Date/Time: 1/14/18 19:00 to 1/14/18 19:30
+[Alert] Abnormal reading: 0.204003999999999991 - Date/Time: 1/14/18 17:30 to 1/14/18 18:00
+[Alert] Abnormal reading: 0.208083999999999963 - Date/Time: 1/14/18 18:00 to 1/14/18 18:30
+[Alert] Abnormal reading: 0.226348000000000049 - Date/Time: 1/14/18 18:30 to 1/14/18 19:00
+[Alert] Abnormal reading: 0.226346999999999965 - Date/Time: 1/14/18 19:00 to 1/14/18 19:30
 Increase detected: 0.125695000000000001 - Date/Time: 1/14/18 19:30 to 1/14/18 20:00
 Increase detected: 0.006341000000000041 - Date/Time: 1/14/18 20:00 to 1/14/18 20:30
 Increase detected: 0.006340999999999930 - Date/Time: 1/14/18 20:30 to 1/14/18 21:00
@@ -689,19 +689,19 @@ Decrease detected: -0.075180999999999831 - Date/Time: 1/15/18 7:30 to 1/15/18 8:
 Increase detected: 0.082281999999999855 - Date/Time: 1/15/18 8:00 to 1/15/18 8:30
 Increase detected: 0.093780000000000197 - Date/Time: 1/15/18 8:30 to 1/15/18 9:00
 Increase detected: 0.132903999999999911 - Date/Time: 1/15/18 9:00 to 1/15/18 9:30
-Increase detected: 0.282942999999999945 - Date/Time: 1/15/18 9:30 to 1/15/18 10:00
-Increase detected: 0.282942999999999945 - Date/Time: 1/15/18 10:00 to 1/15/18 10:30
+[Alert] Abnormal reading: 0.282942999999999945 - Date/Time: 1/15/18 9:30 to 1/15/18 10:00
+[Alert] Abnormal reading: 0.282942999999999945 - Date/Time: 1/15/18 10:00 to 1/15/18 10:30
 Increase detected: 0.125547999999999993 - Date/Time: 1/15/18 10:30 to 1/15/18 11:00
 Decrease detected: -0.043801999999999675 - Date/Time: 1/15/18 11:00 to 1/15/18 11:30
 Decrease detected: -0.043803000000000258 - Date/Time: 1/15/18 11:30 to 1/15/18 12:00
 Decrease detected: -0.593720000000000026 - Date/Time: 1/15/18 12:00 to 1/15/18 12:30
 Decrease detected: -0.770645999999999942 - Date/Time: 1/15/18 12:30 to 1/15/18 13:00
 Decrease detected: -0.739490999999999898 - Date/Time: 1/15/18 13:00 to 1/15/18 13:30
-Increase detected: 0.219570999999999961 - Date/Time: 1/15/18 13:30 to 1/15/18 14:00
-Increase detected: 0.219571000000000016 - Date/Time: 1/15/18 14:00 to 1/15/18 14:30
-Increase detected: 0.232391000000000014 - Date/Time: 1/15/18 14:30 to 1/15/18 15:00
-Increase detected: 0.261419999999999986 - Date/Time: 1/15/18 15:00 to 1/15/18 15:30
-Increase detected: 0.261420000000000097 - Date/Time: 1/15/18 15:30 to 1/15/18 16:00
+[Alert] Abnormal reading: 0.219570999999999961 - Date/Time: 1/15/18 13:30 to 1/15/18 14:00
+[Alert] Abnormal reading: 0.219571000000000016 - Date/Time: 1/15/18 14:00 to 1/15/18 14:30
+[Alert] Abnormal reading: 0.232391000000000014 - Date/Time: 1/15/18 14:30 to 1/15/18 15:00
+[Alert] Abnormal reading: 0.261419999999999986 - Date/Time: 1/15/18 15:00 to 1/15/18 15:30
+[Alert] Abnormal reading: 0.261420000000000097 - Date/Time: 1/15/18 15:30 to 1/15/18 16:00
 Increase detected: 0.098307000000000033 - Date/Time: 1/15/18 16:00 to 1/15/18 16:30
 Decrease detected: -0.019218000000000179 - Date/Time: 1/15/18 16:30 to 1/15/18 17:00
 Decrease detected: -0.019218999999999986 - Date/Time: 1/15/18 17:00 to 1/15/18 17:30
@@ -787,17 +787,17 @@ Increase detected: 0.150534999999999863 - Date/Time: 1/17/18 8:29 to 1/17/18 8:5
 Decrease detected: -0.108241000000000032 - Date/Time: 1/17/18 8:59 to 1/17/18 9:29
 Decrease detected: -0.161535999999999902 - Date/Time: 1/17/18 9:29 to 1/17/18 9:59
 Decrease detected: -0.115094999999999947 - Date/Time: 1/17/18 9:59 to 1/17/18 10:29
-Increase detected: 0.284586000000000006 - Date/Time: 1/17/18 10:29 to 1/17/18 10:59
-Increase detected: 0.284584999999999866 - Date/Time: 1/17/18 10:59 to 1/17/18 11:29
+[Alert] Abnormal reading: 0.284586000000000006 - Date/Time: 1/17/18 10:29 to 1/17/18 10:59
+[Alert] Abnormal reading: 0.284584999999999866 - Date/Time: 1/17/18 10:59 to 1/17/18 11:29
 Increase detected: 0.026279999999999859 - Date/Time: 1/17/18 11:29 to 1/17/18 11:59
 Decrease detected: -0.396999999999999797 - Date/Time: 1/17/18 11:59 to 1/17/18 12:29
 Decrease detected: -0.396998999999999991 - Date/Time: 1/17/18 12:29 to 1/17/18 12:59
 Decrease detected: -0.296431000000000000 - Date/Time: 1/17/18 12:59 to 1/17/18 13:29
 Decrease detected: -0.243190000000000017 - Date/Time: 1/17/18 13:29 to 1/17/18 13:59
 Decrease detected: -0.243190999999999991 - Date/Time: 1/17/18 13:59 to 1/17/18 14:29
-Increase detected: 0.769066000000000027 - Date/Time: 1/17/18 14:29 to 1/17/18 14:59
-Increase detected: 0.846741999999999995 - Date/Time: 1/17/18 14:59 to 1/17/18 15:29
-Increase detected: 0.549506000000000272 - Date/Time: 1/17/18 15:29 to 1/17/18 15:59
+[Alert] Abnormal reading: 0.769066000000000027 - Date/Time: 1/17/18 14:29 to 1/17/18 14:59
+[Alert] Abnormal reading: 0.846741999999999995 - Date/Time: 1/17/18 14:59 to 1/17/18 15:29
+[Alert] Abnormal reading: 0.549506000000000272 - Date/Time: 1/17/18 15:29 to 1/17/18 15:59
 Decrease detected: -0.613077000000000316 - Date/Time: 1/17/18 15:59 to 1/17/18 16:29
 Decrease detected: -0.613076999999999872 - Date/Time: 1/17/18 16:29 to 1/17/18 16:59
 Decrease detected: -0.331817000000000029 - Date/Time: 1/17/18 16:59 to 1/17/18 17:29
@@ -836,11 +836,11 @@ Decrease detected: -0.015931999999999835 - Date/Time: 1/18/18 8:59 to 1/18/18 9:
 Increase detected: 0.055402999999999869 - Date/Time: 1/18/18 9:29 to 1/18/18 9:59
 Increase detected: 0.075742000000000198 - Date/Time: 1/18/18 9:59 to 1/18/18 10:29
 Increase detected: 0.095566999999999958 - Date/Time: 1/18/18 10:29 to 1/18/18 10:59
-Increase detected: 0.449709999999999832 - Date/Time: 1/18/18 10:59 to 1/18/18 11:29
-Increase detected: 0.449710000000000054 - Date/Time: 1/18/18 11:29 to 1/18/18 11:59
-Increase detected: 0.380132999999999832 - Date/Time: 1/18/18 11:59 to 1/18/18 12:29
-Increase detected: 0.237515000000000143 - Date/Time: 1/18/18 12:29 to 1/18/18 12:59
-Increase detected: 0.237514999999999699 - Date/Time: 1/18/18 12:59 to 1/18/18 13:29
+[Alert] Abnormal reading: 0.449709999999999832 - Date/Time: 1/18/18 10:59 to 1/18/18 11:29
+[Alert] Abnormal reading: 0.449710000000000054 - Date/Time: 1/18/18 11:29 to 1/18/18 11:59
+[Alert] Abnormal reading: 0.380132999999999832 - Date/Time: 1/18/18 11:59 to 1/18/18 12:29
+[Alert] Abnormal reading: 0.237515000000000143 - Date/Time: 1/18/18 12:29 to 1/18/18 12:59
+[Alert] Abnormal reading: 0.237514999999999699 - Date/Time: 1/18/18 12:59 to 1/18/18 13:29
 Decrease detected: -0.016445999999999739 - Date/Time: 1/18/18 13:29 to 1/18/18 13:59
 Decrease detected: -0.183807999999999971 - Date/Time: 1/18/18 13:59 to 1/18/18 14:29
 Decrease detected: -0.183808999999999667 - Date/Time: 1/18/18 14:29 to 1/18/18 14:59
@@ -855,9 +855,9 @@ Decrease detected: -0.243692000000000131 - Date/Time: 1/18/18 18:29 to 1/18/18 1
 Increase detected: 0.001377000000000073 - Date/Time: 1/18/18 18:59 to 1/18/18 19:29
 Increase detected: 0.105268999999999835 - Date/Time: 1/18/18 19:29 to 1/18/18 19:59
 Increase detected: 0.105270000000000197 - Date/Time: 1/18/18 19:59 to 1/18/18 20:29
-Increase detected: 0.935666999999999804 - Date/Time: 1/18/18 20:29 to 1/18/18 20:59
-Increase detected: 0.955077000000000176 - Date/Time: 1/18/18 20:59 to 1/18/18 21:29
-Increase detected: 0.660854000000000052 - Date/Time: 1/18/18 21:29 to 1/18/18 21:59
+[Alert] Abnormal reading: 0.935666999999999804 - Date/Time: 1/18/18 20:29 to 1/18/18 20:59
+[Alert] Abnormal reading: 0.955077000000000176 - Date/Time: 1/18/18 20:59 to 1/18/18 21:29
+[Alert] Abnormal reading: 0.660854000000000052 - Date/Time: 1/18/18 21:29 to 1/18/18 21:59
 Decrease detected: -0.212306000000000328 - Date/Time: 1/18/18 21:59 to 1/18/18 22:29
 Decrease detected: -0.212304999999999744 - Date/Time: 1/18/18 22:29 to 1/18/18 22:59
 Decrease detected: -0.702965999999999980 - Date/Time: 1/18/18 22:59 to 1/18/18 23:29
@@ -866,9 +866,9 @@ Decrease detected: -1.143011999999999917 - Date/Time: 1/18/18 23:59 to 1/19/18 0
 Decrease detected: -0.260249000000000008 - Date/Time: 1/19/18 0:29 to 1/19/18 0:59
 Decrease detected: -0.042787999999999993 - Date/Time: 1/19/18 0:59 to 1/19/18 1:29
 Decrease detected: -0.007352999999999998 - Date/Time: 1/19/18 1:29 to 1/19/18 1:59
-Increase detected: 0.416065999999999991 - Date/Time: 1/19/18 1:59 to 1/19/18 2:29
-Increase detected: 0.416065000000000074 - Date/Time: 1/19/18 2:29 to 1/19/18 2:59
-Increase detected: 0.262396999999999991 - Date/Time: 1/19/18 2:59 to 1/19/18 3:29
+[Alert] Abnormal reading: 0.416065999999999991 - Date/Time: 1/19/18 1:59 to 1/19/18 2:29
+[Alert] Abnormal reading: 0.416065000000000074 - Date/Time: 1/19/18 2:29 to 1/19/18 2:59
+[Alert] Abnormal reading: 0.262396999999999991 - Date/Time: 1/19/18 2:59 to 1/19/18 3:29
 Decrease detected: -0.020365000000000189 - Date/Time: 1/19/18 3:29 to 1/19/18 3:59
 Decrease detected: -0.020364999999999855 - Date/Time: 1/19/18 3:59 to 1/19/18 4:29
 Decrease detected: -0.053550000000000098 - Date/Time: 1/19/18 4:29 to 1/19/18 4:59
@@ -1070,14 +1070,14 @@ Decrease detected: -0.030729000000000117 - Date/Time: 1/23/18 5:59 to 1/23/18 6:
 Increase detected: 0.036739000000000077 - Date/Time: 1/23/18 6:29 to 1/23/18 6:59
 Increase detected: 0.129323999999999995 - Date/Time: 1/23/18 6:59 to 1/23/18 7:29
 Increase detected: 0.129324999999999912 - Date/Time: 1/23/18 7:29 to 1/23/18 7:59
-Increase detected: 0.500822000000000100 - Date/Time: 1/23/18 7:59 to 1/23/18 8:29
-Increase detected: 0.662777000000000172 - Date/Time: 1/23/18 8:29 to 1/23/18 8:59
-Increase detected: 0.662776999999999727 - Date/Time: 1/23/18 8:59 to 1/23/18 9:29
-Increase detected: 0.750392000000000170 - Date/Time: 1/23/18 9:29 to 1/23/18 9:59
-Increase detected: 0.752982999999999514 - Date/Time: 1/23/18 9:59 to 1/23/18 10:29
-Increase detected: 0.701022000000000922 - Date/Time: 1/23/18 10:29 to 1/23/18 10:59
-Increase detected: 0.592267999999999795 - Date/Time: 1/23/18 10:59 to 1/23/18 11:29
-Increase detected: 0.592268999999999046 - Date/Time: 1/23/18 11:29 to 1/23/18 11:59
+[Alert] Abnormal reading: 0.500822000000000100 - Date/Time: 1/23/18 7:59 to 1/23/18 8:29
+[Alert] Abnormal reading: 0.662777000000000172 - Date/Time: 1/23/18 8:29 to 1/23/18 8:59
+[Alert] Abnormal reading: 0.662776999999999727 - Date/Time: 1/23/18 8:59 to 1/23/18 9:29
+[Alert] Abnormal reading: 0.750392000000000170 - Date/Time: 1/23/18 9:29 to 1/23/18 9:59
+[Alert] Abnormal reading: 0.752982999999999514 - Date/Time: 1/23/18 9:59 to 1/23/18 10:29
+[Alert] Abnormal reading: 0.701022000000000922 - Date/Time: 1/23/18 10:29 to 1/23/18 10:59
+[Alert] Abnormal reading: 0.592267999999999795 - Date/Time: 1/23/18 10:59 to 1/23/18 11:29
+[Alert] Abnormal reading: 0.592268999999999046 - Date/Time: 1/23/18 11:29 to 1/23/18 11:59
 Increase detected: 0.151515000000001621 - Date/Time: 1/23/18 11:59 to 1/23/18 12:29
 Decrease detected: -0.252748000000000417 - Date/Time: 1/23/18 12:29 to 1/23/18 12:59
 Decrease detected: -0.252748000000000417 - Date/Time: 1/23/18 12:59 to 1/23/18 13:29
@@ -1092,22 +1092,22 @@ Decrease detected: -0.067131000000000274 - Date/Time: 1/23/18 16:59 to 1/23/18 1
 Increase detected: 0.002359000000000222 - Date/Time: 1/23/18 17:29 to 1/23/18 17:59
 Increase detected: 0.044750999999999319 - Date/Time: 1/23/18 17:59 to 1/23/18 18:29
 Increase detected: 0.044750000000000068 - Date/Time: 1/23/18 18:29 to 1/23/18 18:59
-Increase detected: 0.279532000000000114 - Date/Time: 1/23/18 18:59 to 1/23/18 19:29
-Increase detected: 0.306789000000000645 - Date/Time: 1/23/18 19:29 to 1/23/18 19:59
-Increase detected: 0.333139999999999326 - Date/Time: 1/23/18 19:59 to 1/23/18 20:29
-Increase detected: 0.461012000000000199 - Date/Time: 1/23/18 20:29 to 1/23/18 20:59
-Increase detected: 0.461012999999999451 - Date/Time: 1/23/18 20:59 to 1/23/18 21:29
+[Alert] Abnormal reading: 0.279532000000000114 - Date/Time: 1/23/18 18:59 to 1/23/18 19:29
+[Alert] Abnormal reading: 0.306789000000000645 - Date/Time: 1/23/18 19:29 to 1/23/18 19:59
+[Alert] Abnormal reading: 0.333139999999999326 - Date/Time: 1/23/18 19:59 to 1/23/18 20:29
+[Alert] Abnormal reading: 0.461012000000000199 - Date/Time: 1/23/18 20:29 to 1/23/18 20:59
+[Alert] Abnormal reading: 0.461012999999999451 - Date/Time: 1/23/18 20:59 to 1/23/18 21:29
 Increase detected: 0.014737000000000222 - Date/Time: 1/23/18 21:29 to 1/23/18 21:59
 Decrease detected: -0.540194999999998871 - Date/Time: 1/23/18 21:59 to 1/23/18 22:29
 Decrease detected: -0.540195000000000647 - Date/Time: 1/23/18 22:29 to 1/23/18 22:59
 Decrease detected: -0.105447999999999986 - Date/Time: 1/23/18 22:59 to 1/23/18 23:29
 Increase detected: 0.063104999999999301 - Date/Time: 1/23/18 23:29 to 1/23/18 23:59
 Increase detected: 0.063105000000001077 - Date/Time: 1/23/18 23:59 to 1/24/18 0:29
-Increase detected: 0.368828999999999851 - Date/Time: 1/24/18 0:29 to 1/24/18 0:59
-Increase detected: 0.370212999999999681 - Date/Time: 1/24/18 0:59 to 1/24/18 1:29
-Increase detected: 0.323577999999999477 - Date/Time: 1/24/18 1:29 to 1/24/18 1:59
-Increase detected: 0.197906000000000581 - Date/Time: 1/24/18 1:59 to 1/24/18 2:29
-Increase detected: 0.197905999999999693 - Date/Time: 1/24/18 2:29 to 1/24/18 2:59
+[Alert] Abnormal reading: 0.368828999999999851 - Date/Time: 1/24/18 0:29 to 1/24/18 0:59
+[Alert] Abnormal reading: 0.370212999999999681 - Date/Time: 1/24/18 0:59 to 1/24/18 1:29
+[Alert] Abnormal reading: 0.323577999999999477 - Date/Time: 1/24/18 1:29 to 1/24/18 1:59
+[Alert] Abnormal reading: 0.197906000000000581 - Date/Time: 1/24/18 1:59 to 1/24/18 2:29
+[Alert] Abnormal reading: 0.197905999999999693 - Date/Time: 1/24/18 2:29 to 1/24/18 2:59
 Increase detected: 0.141874000000000500 - Date/Time: 1/24/18 2:59 to 1/24/18 3:29
 Increase detected: 0.095247999999999777 - Date/Time: 1/24/18 3:29 to 1/24/18 3:59
 Increase detected: 0.095247999999999777 - Date/Time: 1/24/18 3:59 to 1/24/18 4:29
@@ -1124,7 +1124,7 @@ Decrease detected: -1.753263999999997935 - Date/Time: 1/24/18 11:59 to 1/24/18 1
 [Alert] Abnormal reading: 1.366205999999998255 - Date/Time: 1/24/18 12:29 to 1/24/18 12:59
 [Alert] Abnormal reading: 3.997132000000000573 - Date/Time: 1/24/18 12:59 to 1/24/18 13:29
 [Alert] Abnormal reading: 3.997132000000000573 - Date/Time: 1/24/18 13:29 to 1/24/18 13:59
-Increase detected: 0.850867999999998403 - Date/Time: 1/24/18 13:59 to 1/24/18 14:29
+[Alert] Abnormal reading: 0.850867999999998403 - Date/Time: 1/24/18 13:59 to 1/24/18 14:29
 Decrease detected: -0.227021000000000583 - Date/Time: 1/24/18 14:29 to 1/24/18 14:59
 Decrease detected: -0.245454999999999757 - Date/Time: 1/24/18 14:59 to 1/24/18 15:29
 Decrease detected: -2.979060000000004038 - Date/Time: 1/24/18 15:29 to 1/24/18 15:59
@@ -1136,13 +1136,13 @@ Decrease detected: -1.113330999999998738 - Date/Time: 1/24/18 17:59 to 1/24/18 1
 Decrease detected: -1.904105000000001269 - Date/Time: 1/24/18 18:29 to 1/24/18 18:59
 Decrease detected: -1.904104000000000241 - Date/Time: 1/24/18 18:59 to 1/24/18 19:29
 Decrease detected: -0.121062000000002001 - Date/Time: 1/24/18 19:29 to 1/24/18 19:59
-Increase detected: 0.206269999999999953 - Date/Time: 1/24/18 19:59 to 1/24/18 20:29
+[Alert] Abnormal reading: 0.206269999999999953 - Date/Time: 1/24/18 19:59 to 1/24/18 20:29
 Increase detected: 0.076438000000003115 - Date/Time: 1/24/18 20:29 to 1/24/18 20:59
 Decrease detected: -0.877718000000001553 - Date/Time: 1/24/18 20:59 to 1/24/18 21:29
 Decrease detected: -0.877717000000000525 - Date/Time: 1/24/18 21:29 to 1/24/18 21:59
 Decrease detected: -0.212051000000002432 - Date/Time: 1/24/18 21:59 to 1/24/18 22:29
-Increase detected: 0.809008999999999645 - Date/Time: 1/24/18 22:29 to 1/24/18 22:59
-Increase detected: 0.809009000000003198 - Date/Time: 1/24/18 22:59 to 1/24/18 23:29
+[Alert] Abnormal reading: 0.809008999999999645 - Date/Time: 1/24/18 22:29 to 1/24/18 22:59
+[Alert] Abnormal reading: 0.809009000000003198 - Date/Time: 1/24/18 22:59 to 1/24/18 23:29
 Decrease detected: -0.002655999999998215 - Date/Time: 1/24/18 23:29 to 1/24/18 23:59
 Decrease detected: -0.403284000000002862 - Date/Time: 1/24/18 23:59 to 1/25/18 0:29
 Decrease detected: -0.403283999999999310 - Date/Time: 1/25/18 0:29 to 1/25/18 0:59
@@ -1152,21 +1152,21 @@ Decrease detected: -0.996641000000000332 - Date/Time: 1/25/18 1:59 to 1/25/18 2:
 Decrease detected: -2.620462999999999099 - Date/Time: 1/25/18 2:29 to 1/25/18 2:59
 Decrease detected: -2.620463000000000875 - Date/Time: 1/25/18 2:59 to 1/25/18 3:29
 Decrease detected: -1.168563999999999936 - Date/Time: 1/25/18 3:29 to 1/25/18 3:59
-Increase detected: 0.317642000000001090 - Date/Time: 1/25/18 3:59 to 1/25/18 4:29
-Increase detected: 0.317641000000000062 - Date/Time: 1/25/18 4:29 to 1/25/18 4:59
+[Alert] Abnormal reading: 0.317642000000001090 - Date/Time: 1/25/18 3:59 to 1/25/18 4:29
+[Alert] Abnormal reading: 0.317641000000000062 - Date/Time: 1/25/18 4:29 to 1/25/18 4:59
 Decrease detected: -0.932987999999999928 - Date/Time: 1/25/18 4:59 to 1/25/18 5:29
 Decrease detected: -1.308581000000000216 - Date/Time: 1/25/18 5:29 to 1/25/18 5:59
 Decrease detected: -1.302761000000000280 - Date/Time: 1/25/18 5:59 to 1/25/18 6:29
 Decrease detected: -1.176067999999999891 - Date/Time: 1/25/18 6:29 to 1/25/18 6:59
 Decrease detected: -1.176069000000000031 - Date/Time: 1/25/18 6:59 to 1/25/18 7:29
 Decrease detected: -0.445651999999999937 - Date/Time: 1/25/18 7:29 to 1/25/18 7:59
-Increase detected: 1.113112000000000101 - Date/Time: 1/25/18 7:59 to 1/25/18 8:29
-Increase detected: 1.113112000000000101 - Date/Time: 1/25/18 8:29 to 1/25/18 8:59
-Increase detected: 0.342284999999999506 - Date/Time: 1/25/18 8:59 to 1/25/18 9:29
+[Alert] Abnormal reading: 1.113112000000000101 - Date/Time: 1/25/18 7:59 to 1/25/18 8:29
+[Alert] Abnormal reading: 1.113112000000000101 - Date/Time: 1/25/18 8:29 to 1/25/18 8:59
+[Alert] Abnormal reading: 0.342284999999999506 - Date/Time: 1/25/18 8:59 to 1/25/18 9:29
 Decrease detected: -0.184076999999999380 - Date/Time: 1/25/18 9:29 to 1/25/18 9:59
 Decrease detected: -0.184076000000000128 - Date/Time: 1/25/18 9:59 to 1/25/18 10:29
-Increase detected: 0.331126999999999505 - Date/Time: 1/25/18 10:29 to 1/25/18 10:59
-Increase detected: 0.408719999999999750 - Date/Time: 1/25/18 10:59 to 1/25/18 11:29
+[Alert] Abnormal reading: 0.331126999999999505 - Date/Time: 1/25/18 10:29 to 1/25/18 10:59
+[Alert] Abnormal reading: 0.408719999999999750 - Date/Time: 1/25/18 10:59 to 1/25/18 11:29
 Increase detected: 0.155916000000000388 - Date/Time: 1/25/18 11:29 to 1/25/18 11:59
 Decrease detected: -1.347042000000000073 - Date/Time: 1/25/18 11:59 to 1/25/18 12:29
 Decrease detected: -1.347041999999999184 - Date/Time: 1/25/18 12:29 to 1/25/18 12:59
@@ -1182,38 +1182,38 @@ Decrease detected: -0.008946000000000343 - Date/Time: 1/25/18 16:59 to 1/25/18 1
 Decrease detected: -0.445311999999999708 - Date/Time: 1/25/18 17:29 to 1/25/18 17:59
 Decrease detected: -0.445311000000000123 - Date/Time: 1/25/18 17:59 to 1/25/18 18:29
 Increase detected: 0.029130000000000100 - Date/Time: 1/25/18 18:29 to 1/25/18 18:59
-Increase detected: 0.469936999999999938 - Date/Time: 1/25/18 18:59 to 1/25/18 19:29
-Increase detected: 0.469937000000000049 - Date/Time: 1/25/18 19:29 to 1/25/18 19:59
-Increase detected: 0.637116999999999711 - Date/Time: 1/25/18 19:59 to 1/25/18 20:29
-Increase detected: 0.680690000000000239 - Date/Time: 1/25/18 20:29 to 1/25/18 20:59
-Increase detected: 0.649742999999999515 - Date/Time: 1/25/18 20:59 to 1/25/18 21:29
-Increase detected: 0.226447000000000287 - Date/Time: 1/25/18 21:29 to 1/25/18 21:59
-Increase detected: 0.226447000000000287 - Date/Time: 1/25/18 21:59 to 1/25/18 22:29
+[Alert] Abnormal reading: 0.469936999999999938 - Date/Time: 1/25/18 18:59 to 1/25/18 19:29
+[Alert] Abnormal reading: 0.469937000000000049 - Date/Time: 1/25/18 19:29 to 1/25/18 19:59
+[Alert] Abnormal reading: 0.637116999999999711 - Date/Time: 1/25/18 19:59 to 1/25/18 20:29
+[Alert] Abnormal reading: 0.680690000000000239 - Date/Time: 1/25/18 20:29 to 1/25/18 20:59
+[Alert] Abnormal reading: 0.649742999999999515 - Date/Time: 1/25/18 20:59 to 1/25/18 21:29
+[Alert] Abnormal reading: 0.226447000000000287 - Date/Time: 1/25/18 21:29 to 1/25/18 21:59
+[Alert] Abnormal reading: 0.226447000000000287 - Date/Time: 1/25/18 21:59 to 1/25/18 22:29
 Increase detected: 0.131043000000000021 - Date/Time: 1/25/18 22:29 to 1/25/18 22:59
 Decrease detected: -0.051467999999999847 - Date/Time: 1/25/18 22:59 to 1/25/18 23:29
 Decrease detected: -0.051467000000000596 - Date/Time: 1/25/18 23:29 to 1/25/18 23:59
 Increase detected: 0.164188000000000223 - Date/Time: 1/25/18 23:59 to 1/26/18 0:29
-Increase detected: 0.297241000000000533 - Date/Time: 1/26/18 0:29 to 1/26/18 0:59
-Increase detected: 0.297239999999999505 - Date/Time: 1/26/18 0:59 to 1/26/18 1:29
+[Alert] Abnormal reading: 0.297241000000000533 - Date/Time: 1/26/18 0:29 to 1/26/18 0:59
+[Alert] Abnormal reading: 0.297239999999999505 - Date/Time: 1/26/18 0:59 to 1/26/18 1:29
 Decrease detected: -1.036484000000000183 - Date/Time: 1/26/18 1:29 to 1/26/18 1:59
 Decrease detected: -1.195758999999999794 - Date/Time: 1/26/18 1:59 to 1/26/18 2:29
 Decrease detected: -0.690247999999999973 - Date/Time: 1/26/18 2:29 to 1/26/18 2:59
 [Alert] Abnormal reading: 1.809695999999999749 - Date/Time: 1/26/18 2:59 to 1/26/18 3:29
 [Alert] Abnormal reading: 1.809695000000000498 - Date/Time: 1/26/18 3:29 to 1/26/18 3:59
-Increase detected: 0.944314000000000320 - Date/Time: 1/26/18 3:59 to 1/26/18 4:29
+[Alert] Abnormal reading: 0.944314000000000320 - Date/Time: 1/26/18 3:59 to 1/26/18 4:29
 Decrease detected: -0.143429000000000251 - Date/Time: 1/26/18 4:29 to 1/26/18 4:59
 Decrease detected: -0.143429000000000251 - Date/Time: 1/26/18 4:59 to 1/26/18 5:29
-Increase detected: 0.312274000000000385 - Date/Time: 1/26/18 5:29 to 1/26/18 5:59
-Increase detected: 0.491295999999999289 - Date/Time: 1/26/18 5:59 to 1/26/18 6:29
-Increase detected: 0.491295000000000037 - Date/Time: 1/26/18 6:29 to 1/26/18 6:59
+[Alert] Abnormal reading: 0.312274000000000385 - Date/Time: 1/26/18 5:29 to 1/26/18 5:59
+[Alert] Abnormal reading: 0.491295999999999289 - Date/Time: 1/26/18 5:59 to 1/26/18 6:29
+[Alert] Abnormal reading: 0.491295000000000037 - Date/Time: 1/26/18 6:29 to 1/26/18 6:59
 Decrease detected: -1.061672999999999867 - Date/Time: 1/26/18 6:59 to 1/26/18 7:29
 Decrease detected: -1.072886000000000450 - Date/Time: 1/26/18 7:29 to 1/26/18 7:59
 Decrease detected: -0.759688999999999837 - Date/Time: 1/26/18 7:59 to 1/26/18 8:29
 Increase detected: 0.097033000000000591 - Date/Time: 1/26/18 8:29 to 1/26/18 8:59
 Increase detected: 0.097031999999999563 - Date/Time: 1/26/18 8:59 to 1/26/18 9:29
-Increase detected: 0.595233999999999597 - Date/Time: 1/26/18 9:29 to 1/26/18 9:59
-Increase detected: 1.015228000000001352 - Date/Time: 1/26/18 9:59 to 1/26/18 10:29
-Increase detected: 1.015228999999998827 - Date/Time: 1/26/18 10:29 to 1/26/18 10:59
+[Alert] Abnormal reading: 0.595233999999999597 - Date/Time: 1/26/18 9:29 to 1/26/18 9:59
+[Alert] Abnormal reading: 1.015228000000001352 - Date/Time: 1/26/18 9:59 to 1/26/18 10:29
+[Alert] Abnormal reading: 1.015228999999998827 - Date/Time: 1/26/18 10:29 to 1/26/18 10:59
 Decrease detected: -1.849989999999999135 - Date/Time: 1/26/18 10:59 to 1/26/18 11:29
 Decrease detected: -2.489777000000000573 - Date/Time: 1/26/18 11:29 to 1/26/18 11:59
 Decrease detected: -2.268927999999999834 - Date/Time: 1/26/18 11:59 to 1/26/18 12:29
@@ -1312,14 +1312,14 @@ Decrease detected: -0.066846999999999990 - Date/Time: 1/28/18 9:59 to 1/28/18 10
 Decrease detected: -0.012198000000000153 - Date/Time: 1/28/18 10:29 to 1/28/18 10:59
 Increase detected: 0.057394000000000056 - Date/Time: 1/28/18 10:59 to 1/28/18 11:29
 Increase detected: 0.057393999999999945 - Date/Time: 1/28/18 11:29 to 1/28/18 11:59
-Increase detected: 0.550645999999999969 - Date/Time: 1/28/18 11:59 to 1/28/18 12:29
-Increase detected: 0.747244000000000241 - Date/Time: 1/28/18 12:29 to 1/28/18 12:59
-Increase detected: 0.747243999999999797 - Date/Time: 1/28/18 12:59 to 1/28/18 13:29
+[Alert] Abnormal reading: 0.550645999999999969 - Date/Time: 1/28/18 11:59 to 1/28/18 12:29
+[Alert] Abnormal reading: 0.747244000000000241 - Date/Time: 1/28/18 12:29 to 1/28/18 12:59
+[Alert] Abnormal reading: 0.747243999999999797 - Date/Time: 1/28/18 12:59 to 1/28/18 13:29
 Decrease detected: -0.094940999999999942 - Date/Time: 1/28/18 13:29 to 1/28/18 13:59
 Decrease detected: -0.103301000000000087 - Date/Time: 1/28/18 13:59 to 1/28/18 14:29
 Decrease detected: -0.022926999999999698 - Date/Time: 1/28/18 14:29 to 1/28/18 14:59
-Increase detected: 0.199945000000000039 - Date/Time: 1/28/18 14:59 to 1/28/18 15:29
-Increase detected: 0.199944999999999595 - Date/Time: 1/28/18 15:29 to 1/28/18 15:59
+[Alert] Abnormal reading: 0.199945000000000039 - Date/Time: 1/28/18 14:59 to 1/28/18 15:29
+[Alert] Abnormal reading: 0.199944999999999595 - Date/Time: 1/28/18 15:29 to 1/28/18 15:59
 Decrease detected: -0.202815999999999885 - Date/Time: 1/28/18 15:59 to 1/28/18 16:29
 Decrease detected: -0.546008999999999745 - Date/Time: 1/28/18 16:29 to 1/28/18 16:59
 Decrease detected: -0.546010000000000328 - Date/Time: 1/28/18 16:59 to 1/28/18 17:29
@@ -1332,8 +1332,8 @@ Decrease detected: -0.421488999999999780 - Date/Time: 1/28/18 19:59 to 1/28/18 2
 Decrease detected: -0.618686000000000069 - Date/Time: 1/28/18 20:29 to 1/28/18 20:59
 Decrease detected: -0.618685000000000040 - Date/Time: 1/28/18 20:59 to 1/28/18 21:29
 Increase detected: 0.061650000000000003 - Date/Time: 1/28/18 21:29 to 1/28/18 21:59
-Increase detected: 0.445276000000000005 - Date/Time: 1/28/18 21:59 to 1/28/18 22:29
-Increase detected: 0.445274999999999921 - Date/Time: 1/28/18 22:29 to 1/28/18 22:59
+[Alert] Abnormal reading: 0.445276000000000005 - Date/Time: 1/28/18 21:59 to 1/28/18 22:29
+[Alert] Abnormal reading: 0.445274999999999921 - Date/Time: 1/28/18 22:29 to 1/28/18 22:59
 Increase detected: 0.078733999999999971 - Date/Time: 1/28/18 22:59 to 1/28/18 23:29
 Increase detected: 0.044384000000000090 - Date/Time: 1/28/18 23:29 to 1/28/18 23:59
 Increase detected: 0.030391999999999975 - Date/Time: 1/28/18 23:59 to 1/29/18 0:29
@@ -1350,18 +1350,18 @@ Increase detected: 0.060459000000000040 - Date/Time: 1/29/18 4:59 to 1/29/18 5:2
 Increase detected: 0.045288999999999913 - Date/Time: 1/29/18 5:29 to 1/29/18 5:59
 Increase detected: 0.008014000000000077 - Date/Time: 1/29/18 5:59 to 1/29/18 6:29
 Increase detected: 0.008013999999999966 - Date/Time: 1/29/18 6:29 to 1/29/18 6:59
-Increase detected: 0.290114999999999901 - Date/Time: 1/29/18 6:59 to 1/29/18 7:29
-Increase detected: 0.508070000000000022 - Date/Time: 1/29/18 7:29 to 1/29/18 7:59
-Increase detected: 0.508071000000000383 - Date/Time: 1/29/18 7:59 to 1/29/18 8:29
-Increase detected: 0.604977999999999572 - Date/Time: 1/29/18 8:29 to 1/29/18 8:59
-Increase detected: 0.623571999999999793 - Date/Time: 1/29/18 8:59 to 1/29/18 9:29
-Increase detected: 0.587144000000000776 - Date/Time: 1/29/18 9:29 to 1/29/18 9:59
-Increase detected: 0.303736999999999924 - Date/Time: 1/29/18 9:59 to 1/29/18 10:29
-Increase detected: 0.303736999999999036 - Date/Time: 1/29/18 10:29 to 1/29/18 10:59
-Increase detected: 0.673947000000000962 - Date/Time: 1/29/18 10:59 to 1/29/18 11:29
+[Alert] Abnormal reading: 0.290114999999999901 - Date/Time: 1/29/18 6:59 to 1/29/18 7:29
+[Alert] Abnormal reading: 0.508070000000000022 - Date/Time: 1/29/18 7:29 to 1/29/18 7:59
+[Alert] Abnormal reading: 0.508071000000000383 - Date/Time: 1/29/18 7:59 to 1/29/18 8:29
+[Alert] Abnormal reading: 0.604977999999999572 - Date/Time: 1/29/18 8:29 to 1/29/18 8:59
+[Alert] Abnormal reading: 0.623571999999999793 - Date/Time: 1/29/18 8:59 to 1/29/18 9:29
+[Alert] Abnormal reading: 0.587144000000000776 - Date/Time: 1/29/18 9:29 to 1/29/18 9:59
+[Alert] Abnormal reading: 0.303736999999999924 - Date/Time: 1/29/18 9:59 to 1/29/18 10:29
+[Alert] Abnormal reading: 0.303736999999999036 - Date/Time: 1/29/18 10:29 to 1/29/18 10:59
+[Alert] Abnormal reading: 0.673947000000000962 - Date/Time: 1/29/18 10:59 to 1/29/18 11:29
 [Alert] Abnormal reading: 1.255991999999999109 - Date/Time: 1/29/18 11:29 to 1/29/18 11:59
 [Alert] Abnormal reading: 1.255991999999999997 - Date/Time: 1/29/18 11:59 to 1/29/18 12:29
-Increase detected: 0.313548000000000826 - Date/Time: 1/29/18 12:29 to 1/29/18 12:59
+[Alert] Abnormal reading: 0.313548000000000826 - Date/Time: 1/29/18 12:29 to 1/29/18 12:59
 Decrease detected: -0.164099999999999469 - Date/Time: 1/29/18 12:59 to 1/29/18 13:29
 Decrease detected: -0.164101000000001385 - Date/Time: 1/29/18 13:29 to 1/29/18 13:59
 Decrease detected: -1.546649999999999636 - Date/Time: 1/29/18 13:59 to 1/29/18 14:29
@@ -1373,33 +1373,33 @@ Decrease detected: -0.334156999999999815 - Date/Time: 1/29/18 16:29 to 1/29/18 1
 Decrease detected: -0.384365999999999985 - Date/Time: 1/29/18 16:59 to 1/29/18 17:29
 Decrease detected: -0.384366000000000207 - Date/Time: 1/29/18 17:29 to 1/29/18 17:59
 Increase detected: 0.064218000000000108 - Date/Time: 1/29/18 17:59 to 1/29/18 18:29
-Increase detected: 0.203430000000000000 - Date/Time: 1/29/18 18:29 to 1/29/18 18:59
-Increase detected: 0.197944999999999816 - Date/Time: 1/29/18 18:59 to 1/29/18 19:29
+[Alert] Abnormal reading: 0.203430000000000000 - Date/Time: 1/29/18 18:29 to 1/29/18 18:59
+[Alert] Abnormal reading: 0.197944999999999816 - Date/Time: 1/29/18 18:59 to 1/29/18 19:29
 Increase detected: 0.060271000000000186 - Date/Time: 1/29/18 19:29 to 1/29/18 19:59
 Increase detected: 0.060271999999999881 - Date/Time: 1/29/18 19:59 to 1/29/18 20:29
 Decrease detected: -0.057151000000000174 - Date/Time: 1/29/18 20:29 to 1/29/18 20:59
 Decrease detected: -0.314313999999999760 - Date/Time: 1/29/18 20:59 to 1/29/18 21:29
 Decrease detected: -0.314313999999999982 - Date/Time: 1/29/18 21:29 to 1/29/18 21:59
 Decrease detected: -0.020528000000000102 - Date/Time: 1/29/18 21:59 to 1/29/18 22:29
-Increase detected: 0.185024000000000077 - Date/Time: 1/29/18 22:29 to 1/29/18 22:59
-Increase detected: 0.185024999999999995 - Date/Time: 1/29/18 22:59 to 1/29/18 23:29
-Increase detected: 0.205251000000000072 - Date/Time: 1/29/18 23:29 to 1/29/18 23:59
-Increase detected: 0.208454999999999835 - Date/Time: 1/29/18 23:59 to 1/30/18 0:29
+[Alert] Abnormal reading: 0.185024000000000077 - Date/Time: 1/29/18 22:29 to 1/29/18 22:59
+[Alert] Abnormal reading: 0.185024999999999995 - Date/Time: 1/29/18 22:59 to 1/29/18 23:29
+[Alert] Abnormal reading: 0.205251000000000072 - Date/Time: 1/29/18 23:29 to 1/29/18 23:59
+[Alert] Abnormal reading: 0.208454999999999835 - Date/Time: 1/29/18 23:59 to 1/30/18 0:29
 Increase detected: 0.114098000000000255 - Date/Time: 1/30/18 0:29 to 1/30/18 0:59
 Decrease detected: -0.474773000000000112 - Date/Time: 1/30/18 0:59 to 1/30/18 1:29
 Decrease detected: -0.474773000000000112 - Date/Time: 1/30/18 1:29 to 1/30/18 1:59
 Decrease detected: -0.225905000000000022 - Date/Time: 1/30/18 1:59 to 1/30/18 2:29
 Increase detected: 0.127837000000000200 - Date/Time: 1/30/18 2:29 to 1/30/18 2:59
 Increase detected: 0.127835999999999839 - Date/Time: 1/30/18 2:59 to 1/30/18 3:29
-Increase detected: 0.342744999999999855 - Date/Time: 1/30/18 3:29 to 1/30/18 3:59
-Increase detected: 0.440265000000000351 - Date/Time: 1/30/18 3:59 to 1/30/18 4:29
-Increase detected: 0.440265999999999824 - Date/Time: 1/30/18 4:29 to 1/30/18 4:59
-Increase detected: 0.179768999999999846 - Date/Time: 1/30/18 4:59 to 1/30/18 5:29
+[Alert] Abnormal reading: 0.342744999999999855 - Date/Time: 1/30/18 3:29 to 1/30/18 3:59
+[Alert] Abnormal reading: 0.440265000000000351 - Date/Time: 1/30/18 3:59 to 1/30/18 4:29
+[Alert] Abnormal reading: 0.440265999999999824 - Date/Time: 1/30/18 4:29 to 1/30/18 4:59
+[Alert] Abnormal reading: 0.179768999999999846 - Date/Time: 1/30/18 4:59 to 1/30/18 5:29
 Increase detected: 0.169688000000000283 - Date/Time: 1/30/18 5:29 to 1/30/18 5:59
-Increase detected: 0.199505999999999517 - Date/Time: 1/30/18 5:59 to 1/30/18 6:29
-Increase detected: 0.295174000000000714 - Date/Time: 1/30/18 6:29 to 1/30/18 6:59
-Increase detected: 0.295173999999999825 - Date/Time: 1/30/18 6:59 to 1/30/18 7:29
-Increase detected: 0.765378999999999809 - Date/Time: 1/30/18 7:29 to 1/30/18 7:59
+[Alert] Abnormal reading: 0.199505999999999517 - Date/Time: 1/30/18 5:59 to 1/30/18 6:29
+[Alert] Abnormal reading: 0.295174000000000714 - Date/Time: 1/30/18 6:29 to 1/30/18 6:59
+[Alert] Abnormal reading: 0.295173999999999825 - Date/Time: 1/30/18 6:59 to 1/30/18 7:29
+[Alert] Abnormal reading: 0.765378999999999809 - Date/Time: 1/30/18 7:29 to 1/30/18 7:59
 [Alert] Abnormal reading: 1.212655999999999956 - Date/Time: 1/30/18 7:59 to 1/30/18 8:29
 [Alert] Abnormal reading: 1.212655999999999956 - Date/Time: 1/30/18 8:29 to 1/30/18 8:59
 Decrease detected: -0.161130000000000884 - Date/Time: 1/30/18 8:59 to 1/30/18 9:29
@@ -1452,8 +1452,8 @@ Increase detected: 0.013798999999999895 - Date/Time: 1/31/18 7:59 to 1/31/18 8:2
 Increase detected: 0.020229000000000052 - Date/Time: 1/31/18 8:29 to 1/31/18 8:59
 Increase detected: 0.020227999999999913 - Date/Time: 1/31/18 8:59 to 1/31/18 9:29
 Increase detected: 0.163645000000000040 - Date/Time: 1/31/18 9:29 to 1/31/18 9:59
-Increase detected: 0.215011999999999981 - Date/Time: 1/31/18 9:59 to 1/31/18 10:29
-Increase detected: 0.212204999999999977 - Date/Time: 1/31/18 10:29 to 1/31/18 10:59
+[Alert] Abnormal reading: 0.215011999999999981 - Date/Time: 1/31/18 9:59 to 1/31/18 10:29
+[Alert] Abnormal reading: 0.212204999999999977 - Date/Time: 1/31/18 10:29 to 1/31/18 10:59
 Decrease detected: -0.036344999999999850 - Date/Time: 1/31/18 10:59 to 1/31/18 11:29
 Decrease detected: -0.036345000000000072 - Date/Time: 1/31/18 11:29 to 1/31/18 11:59
 Decrease detected: -0.038297000000000025 - Date/Time: 1/31/18 11:59 to 1/31/18 12:29
@@ -1480,3 +1480,6 @@ Decrease detected: -0.068054999999999977 - Date/Time: 1/31/18 21:59 to 1/31/18 2
 Decrease detected: -0.068054000000000059 - Date/Time: 1/31/18 22:29 to 1/31/18 22:59
 Decrease detected: -0.035251000000000032 - Date/Time: 1/31/18 22:59 to 1/31/18 23:29
 Decrease detected: -0.000504999999999867 - Date/Time: 1/31/18 23:29 to 1/31/18 23:59
+
+
+Number of abnormal readings detected: 153
